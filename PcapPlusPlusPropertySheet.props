@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <PcapPlusPlusHome>D:\ninjhax\main\Downloads - HDD\pcapplusplus-19.12-windows-vs2017\pcapplusplus-19.12-windows-vs2017</PcapPlusPlusHome>
+    <WinPcapHome>D:\ninjhax\main\Downloads - HDD\npcap-sdk-1.05</WinPcapHome>
+    <PThreadWin32Home>D:\ninjhax\main\Downloads - HDD\pthreads-w32-2-9-1-release</PThreadWin32Home>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup />
+  <ItemGroup />
+</Project>
